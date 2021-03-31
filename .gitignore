@@ -1,6 +1,7 @@
 *.cbp
 *.depend
 *.layout
+*.xml
 plan/
 bin/
 obj/
