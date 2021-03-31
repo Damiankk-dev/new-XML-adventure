@@ -1,0 +1,8 @@
+*.cbp
+*.depend
+*.layout
+plan/
+bin/
+obj/
+Uzytkownicy.txt
+Adresaci.txt
